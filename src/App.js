@@ -29,8 +29,7 @@ class App extends Component{
 
     render() {
         return(
-        <div><BubbleURL/></div>
-        /*const {monsters, searchField} = this.state
+        const {monsters, searchField} = this.state
 
         const  filteredMonsters  = monsters.filter( monster =>
             monster.name.toLowerCase().includes(searchField.toLowerCase())
@@ -54,7 +53,7 @@ class App extends Component{
                 />
                 <CardList monsters={filteredMonsters}/>
             </div>
-        )*/
+        )
         )}
 }
 
