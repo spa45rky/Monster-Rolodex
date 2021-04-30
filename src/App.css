@@ -42,5 +42,12 @@ h1 {
   color: #0ccac4;
 }
 
+.time-picker {
+  border: 2px solid #1657FF!important;
+  box-sizing: border-box!important;
+  border-radius: 6px!important;
+}
+
+
 
 

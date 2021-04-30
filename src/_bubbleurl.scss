@@ -1,0 +1,9 @@
+.bubble {
+  border-radius: 8px;
+  background-color: $azureish-white;
+  border: 0;
+}
+
+.bubble:focus {
+  outline: none;
+}
